@@ -1,0 +1,213 @@
+#footer h2
+{
+	color: #2e323b;
+	font-size: 15pt;
+	margin: 0;
+	padding: 0;
+}
+#footer ul
+{
+	list-style-type: none;
+	margin: 10px 0px;
+	padding: 0;
+}
+#footer li
+{
+	padding-bottom: 10px;
+}
+#footer a
+{
+	text-decoration: none;
+}
+#footer a:hover
+{
+	color: #f7c204;
+	text-decoration: none;
+}
+#footer-contenido{
+	color: rgb(46, 50, 59); 
+	margin-top: 116px;
+}
+#correo_footer
+{
+	border:none; 
+	background: none repeat scroll 0 0 transparent;
+	width:145px;
+	margin-left: 10px; 
+	padding-bottom: 5px; 
+	font-size: 11px;
+}
+#footer
+{
+	background-color: #030a1c;
+	background-image: url("http://euro.mediotiempo.com/images/footer_mt/pasto_footer_mt2010.jpg");
+	background-position: center top;
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 11px;
+	overflow: hidden;
+	width: 100%;
+}
+#titulo_newsletter
+{
+	background-image: url("http://euro.mediotiempo.com/images/footer_mt/newsletter_footer.gif");
+	background-position: left top;
+	background-repeat: no-repeat;
+	height: 17px;
+	margin-bottom: 20px;
+	margin-top: 0px;
+	width: 100%;
+}
+#titulo_siguenos
+{
+	background-image: url("http://euro.mediotiempo.com/images/footer_mt/newsletter_footer.gif");
+	background-position: left top;
+	background-repeat: no-repeat;
+	height: 17px;
+	margin-bottom: 20px;
+	width: 100%;
+}
+#titulo_noticias
+{
+	background-image: url("http://euro.mediotiempo.com/images/footer_mt/noticias_footer.gif");
+	background-position: left top;
+	background-repeat: no-repeat;
+	height: 17px;
+	margin-bottom: 20px;
+	margin-top: 0px;
+	width: 100%;
+}
+#footer_del_footer
+{
+	background-color: #101528;
+	background-image: url('http://euro.mediotiempo.com/images/footer_mt/flecha_amarilla.png');
+	background-position: left center;
+	background-repeat: no-repeat;
+	color: #394a5c;
+	float: left;
+	padding: 15px;
+	text-align: center;
+	width: 100%;
+}
+#visita_grupos
+{
+	background-image: url("http://euro.mediotiempo.com/images/footer_mt/visita_sitiosgrupo.gif");
+	background-position: left top;
+	background-repeat: no-repeat;
+	height: 17px;
+	margin-top: 0px;
+	width: 100%;
+}
+#visita_warner
+{
+	background-image: url("http://euro.mediotiempo.com/images/footer_mt/visita_twarner.gif");
+	background-position: left top;
+	background-repeat: no-repeat;
+	height: 17px;
+	margin-top: 0px;
+	width: 100%;
+}
+#col-izq
+{
+	border-right: 1px dashed #2e323b;
+	float: left;
+	height: 568px;
+	margin-left: 20px;
+	width: 205px;
+}
+#col-der
+{
+	float: left;
+	width: 745px;
+}
+#col-der a{
+	color: #2e323b;
+}
+#col-izq span
+{
+	color: #465d6d;
+}
+#footer_newsletter{
+width:100%; 
+background-image: url("http://euro.mediotiempo.com/images/footer_mt/text-footer.png");
+background-repeat: no-repeat;
+background-position:left bottom;
+margin-bottom:2px;
+}
+
+.seccion
+{
+	float: left;
+	height: 430px;
+	margin-left: 25px;
+	width: 161px;
+}
+.texto-redes
+{
+	float: left;
+}
+.visita
+{
+	border-top: 1px dotted rgb(72, 95, 113);
+	float: left;
+	padding:15px 0;
+	width:348px;
+}
+.red_social
+{
+	height: 75px;
+	width: 100%;
+}
+
+.red_social a{
+	color: #465d6d;
+	font-weight:bold;
+}
+
+#youtube
+{
+	background-image: url("http://euro.mediotiempo.com/images/footer_mt/youtube_footer.gif");
+	background-position: left top;
+	background-repeat: no-repeat;
+	float: left;
+	height: 35px;
+	margin-right: 18px;
+	width: 36px;
+	cursor: pointer;
+}
+#twitter
+{
+	background-image: url("http://euro.mediotiempo.com/images/footer_mt/twitter_footer.gif");
+	background-position: left top;
+	background-repeat: no-repeat;
+	float: left;
+	height: 37px;
+	margin-bottom: 0px;
+	margin-right: 5px;
+	width: 48px;
+	cursor: pointer;
+}
+#rss
+{
+	background-image: url("http://euro.mediotiempo.com/images/footer_mt/rss_footer.gif");
+	background-position: left top;
+	background-repeat: no-repeat;
+	float: left;
+	height: 35px;
+	margin-bottom: 0px;
+	margin-right: 18px;
+	width: 36px;
+	cursor: pointer;
+}
+#facebook
+{
+	background-image: url("http://euro.mediotiempo.com/images/footer_mt/facebook_footer.png");
+	background-position: left top;
+	background-repeat: no-repeat;
+	float: left;
+	height: 35px;
+	margin-right: 18px;
+	width: 36px;
+	cursor: pointer;
+}
